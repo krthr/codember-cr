@@ -1,0 +1,13 @@
+name: codember-cr
+version: 0.1.0
+
+authors:
+  - Wilson <wtovaragudelo@gmail.com>
+
+targets:
+  codember-cr:
+    main: src/codember-cr.cr
+
+crystal: '>= 1.10.1'
+
+license: MIT
