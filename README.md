@@ -1,22 +1,10 @@
-# codember-cr
+# Codember.cr
 
-TODO: Write a description here
-
-## Installation
-
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+Soluciones a los desafíos de Codember 2023 en Crystal.
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/codember-cr/fork>)
+1. Fork it (<https://github.com/krthr/codember-cr/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -24,4 +12,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Wilson](https://github.com/your-github-user) - creator and maintainer
+- [Wilson](https://github.com/krthr) - creator and maintainer
